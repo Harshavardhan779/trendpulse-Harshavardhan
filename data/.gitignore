@@ -1,0 +1,13 @@
+# Ignore Virtual Environments
+venv/
+.env
+env/
+ENV/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the data folder (Optional)
+# Usually, we don't push the actual raw data files, just the code
+data/
