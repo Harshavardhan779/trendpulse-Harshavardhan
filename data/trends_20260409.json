@@ -1,0 +1,902 @@
+[
+    {
+        "id": 47702791,
+        "title": "Show HN: 41 years sea surface temperature anomalies",
+        "url": "https://ssta.willhelps.org",
+        "score": 75,
+        "by": "willmeyers",
+        "time": 1775737557,
+        "descendants": 24
+    },
+    {
+        "id": 47697870,
+        "title": "LittleSnitch for Linux",
+        "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+        "score": 1024,
+        "by": "pluc",
+        "time": 1775694368,
+        "descendants": 355
+    },
+    {
+        "id": 47700388,
+        "title": "Help Keep Thunderbird Alive",
+        "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+        "score": 283,
+        "by": "playfultones",
+        "time": 1775719645,
+        "descendants": 184
+    },
+    {
+        "id": 47702541,
+        "title": "A WebGPU Implementation of Augmented Vertex Block Descent",
+        "url": "https://github.com/jure/webphysics",
+        "score": 27,
+        "by": "juretriglav",
+        "time": 1775736091,
+        "descendants": 0
+    },
+    {
+        "id": 47703419,
+        "title": "Meta removes ads for social media addiction litigation",
+        "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
+        "score": 81,
+        "by": "giuliomagnifico",
+        "time": 1775741030,
+        "descendants": 37
+    },
+    {
+        "id": 47685644,
+        "title": "Introduction to Nintendo DS Programming",
+        "url": "https://www.patater.com/files/projects/manual/manual.html",
+        "score": 63,
+        "by": "medbar",
+        "time": 1775625762,
+        "descendants": 10
+    },
+    {
+        "id": 47703123,
+        "title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+        "url": "https://pizzalegacy.nl/blog/traffic-system.html",
+        "score": 77,
+        "by": "FinnKuhn",
+        "time": 1775739430,
+        "descendants": 18
+    },
+    {
+        "id": 47699181,
+        "title": "Open Source Security at Astral",
+        "url": "https://astral.sh/blog/open-source-security-at-astral",
+        "score": 272,
+        "by": "vinhnx",
+        "time": 1775707915,
+        "descendants": 63
+    },
+    {
+        "id": 47701572,
+        "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
+        "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
+        "score": 80,
+        "by": "eigenspace",
+        "time": 1775729419,
+        "descendants": 43
+    },
+    {
+        "id": 47701148,
+        "title": "FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD",
+        "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+        "score": 56,
+        "by": "fork-bomber",
+        "time": 1775726245,
+        "descendants": 20
+    },
+    {
+        "id": 47680061,
+        "title": "Building a framework-agnostic Ruby gem (and making sure it doesn't break)",
+        "url": "https://newsletter.masilotti.com/p/on-building-a-framework-agnostic",
+        "score": 7,
+        "by": "joemasilotti",
+        "time": 1775589509,
+        "descendants": 0
+    },
+    {
+        "id": 47702647,
+        "title": "Launch HN: Relvy (YC F24) \u2013 On-call runbooks, automated",
+        "url": "https://www.relvy.ai",
+        "score": 13,
+        "by": "behat",
+        "time": 1775736716,
+        "descendants": 11
+    },
+    {
+        "id": 47658950,
+        "title": "Haunted Paper Toys",
+        "url": "http://ravensblight.com/papertoys.html",
+        "score": 166,
+        "by": "exvi",
+        "time": 1775470140,
+        "descendants": 21
+    },
+    {
+        "id": 47624763,
+        "title": "Tree Calculus",
+        "url": "https://treecalcul.us/",
+        "score": 40,
+        "by": "tosh",
+        "time": 1775209325,
+        "descendants": 11
+    },
+    {
+        "id": 47703072,
+        "title": "Am I German or Autistic?",
+        "url": "https://german.millermanschool.com/",
+        "score": 151,
+        "by": "doener",
+        "time": 1775739132,
+        "descendants": 117
+    },
+    {
+        "id": 47702499,
+        "title": "Lichess and Take Take Take Sign Cooperation Agreement",
+        "url": "https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy",
+        "score": 32,
+        "by": "stevage",
+        "time": 1775735816,
+        "descendants": 2
+    },
+    {
+        "id": 47661972,
+        "title": "Small Engines",
+        "url": "https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/",
+        "score": 17,
+        "by": "surprisetalk",
+        "time": 1775488284,
+        "descendants": 3
+    },
+    {
+        "id": 47663743,
+        "title": "Show HN: Moon simulator game, ray-casting",
+        "url": "https://mooncraft2000.com",
+        "score": 55,
+        "by": "JKCalhoun",
+        "time": 1775495380,
+        "descendants": 13
+    },
+    {
+        "id": 47645010,
+        "title": "Dr. Dobb's Developer Library DVD 6",
+        "url": "https://archive.org/details/DDJDVD6",
+        "score": 99,
+        "by": "kristianp",
+        "time": 1775349477,
+        "descendants": 39
+    },
+    {
+        "id": 47701100,
+        "title": "Creating the Futurescape for the Fifth Element [2019]",
+        "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
+        "score": 70,
+        "by": "nixass",
+        "time": 1775725897,
+        "descendants": 44
+    },
+    {
+        "id": 47695012,
+        "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+        "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "score": 358,
+        "by": "WerWolv",
+        "time": 1775676214,
+        "descendants": 40
+    },
+    {
+        "id": 47632157,
+        "title": "Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",
+        "url": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
+        "score": 47,
+        "by": "laluser",
+        "time": 1775249785,
+        "descendants": 7
+    },
+    {
+        "id": 47691730,
+        "title": "I ported Mac OS X to the Nintendo Wii",
+        "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+        "score": 1736,
+        "by": "blkhp19",
+        "time": 1775662800,
+        "descendants": 296
+    },
+    {
+        "id": 47693153,
+        "title": "Understanding the Kalman filter with a simple radar example",
+        "url": "https://kalmanfilter.net",
+        "score": 387,
+        "by": "alex_be",
+        "time": 1775668306,
+        "descendants": 49
+    },
+    {
+        "id": 47701233,
+        "title": "Claude mixes up who said what and that's not OK",
+        "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+        "score": 245,
+        "by": "sixhobbits",
+        "time": 1775726728,
+        "descendants": 233
+    },
+    {
+        "id": 47688678,
+        "title": "They're made out of meat (1991)",
+        "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+        "score": 595,
+        "by": "surprisetalk",
+        "time": 1775647250,
+        "descendants": 160
+    },
+    {
+        "id": 47689648,
+        "title": "ML promises to be profoundly weird",
+        "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+        "score": 557,
+        "by": "pabs3",
+        "time": 1775653593,
+        "descendants": 541
+    },
+    {
+        "id": 47666639,
+        "title": "The Importance of Being Idle",
+        "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
+        "score": 242,
+        "by": "Caiero",
+        "time": 1775507583,
+        "descendants": 141
+    },
+    {
+        "id": 47687273,
+        "title": "Git commands I run before reading any code",
+        "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+        "score": 2130,
+        "by": "grepsedawk",
+        "time": 1775638422,
+        "descendants": 456
+    },
+    {
+        "id": 47692043,
+        "title": "Muse Spark: Scaling towards personal superintelligence",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+        "score": 372,
+        "by": "chabons",
+        "time": 1775664092,
+        "descendants": 352
+    },
+    {
+        "id": 47678690,
+        "title": "Six (and a half) intuitions for KL divergence",
+        "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+        "score": 99,
+        "by": "jxmorris12",
+        "time": 1775583253,
+        "descendants": 18
+    },
+    {
+        "id": 47700084,
+        "title": "Code Is Cheap Now, and That Changes Everything",
+        "url": "https://perevillega.com/posts/2026-03-16-code-is-cheap-now/",
+        "score": 48,
+        "by": "v-mdev",
+        "time": 1775716871,
+        "descendants": 34
+    },
+    {
+        "id": 47689174,
+        "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+        "url": "https://arxiv.org/abs/2604.05091",
+        "score": 315,
+        "by": "chrsw",
+        "time": 1775650740,
+        "descendants": 56
+    },
+    {
+        "id": 47648538,
+        "title": "I imported the full Linux kernel git history into pgit",
+        "url": "https://oseifert.ch/blog/linux-kernel-pgit",
+        "score": 151,
+        "by": "ImGajeed76",
+        "time": 1775390935,
+        "descendants": 35
+    },
+    {
+        "id": 47654062,
+        "title": "Ask HN: Any interesting niche hobbies?",
+        "url": null,
+        "score": 431,
+        "by": "e-topy",
+        "time": 1775424619,
+        "descendants": 630
+    },
+    {
+        "id": 47694983,
+        "title": "Expanding Swift's IDE Support",
+        "url": "https://swift.org/blog/expanding-swift-ide-support/",
+        "score": 132,
+        "by": "frizlab",
+        "time": 1775676101,
+        "descendants": 59
+    },
+    {
+        "id": 47656730,
+        "title": "Understanding Traceroute",
+        "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
+        "score": 148,
+        "by": "stonecharioteer",
+        "time": 1775446831,
+        "descendants": 22
+    },
+    {
+        "id": 47643852,
+        "title": "Map Gesture Controls - Control maps with your hands",
+        "url": "https://sanderdesnaijer.github.io/map-gesture-controls/",
+        "score": 40,
+        "by": "hebelehubele",
+        "time": 1775339453,
+        "descendants": 7
+    },
+    {
+        "id": 47660434,
+        "title": "C# in Unity 2026: Features Most Developers Still Don't Use",
+        "url": "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use",
+        "score": 47,
+        "by": "hacker_13",
+        "time": 1775480897,
+        "descendants": 46
+    },
+    {
+        "id": 47703936,
+        "title": "Amazon to end support for older Kindles",
+        "url": "https://www.bbc.co.uk/news/articles/c98k91yy4z4o",
+        "score": 3,
+        "by": "akpa1",
+        "time": 1775743403,
+        "descendants": 2
+    },
+    {
+        "id": 47676561,
+        "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
+        "url": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
+        "score": 118,
+        "by": "DamnInteresting",
+        "time": 1775574465,
+        "descendants": 51
+    },
+    {
+        "id": 47696035,
+        "title": "John Deere to pay $99M in right-to-repair settlement",
+        "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+        "score": 348,
+        "by": "CharlesW",
+        "time": 1775681187,
+        "descendants": 116
+    },
+    {
+        "id": 47675446,
+        "title": "Audio Reactive LED Strips Are Diabolically Hard",
+        "url": "https://scottlawsonbc.com/post/audio-led",
+        "score": 235,
+        "by": "surprisetalk",
+        "time": 1775570114,
+        "descendants": 67
+    },
+    {
+        "id": 47702196,
+        "title": "Show HN: CSS Studio. Design by hand, code by agent",
+        "url": "https://cssstudio.ai",
+        "score": 65,
+        "by": "SirHound",
+        "time": 1775733811,
+        "descendants": 57
+    },
+    {
+        "id": 47666398,
+        "title": "Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes",
+        "url": "https://github.com/meribold/btry",
+        "score": 57,
+        "by": "meribold",
+        "time": 1775506456,
+        "descendants": 17
+    },
+    {
+        "id": 47645717,
+        "title": "Union types in C# 15",
+        "url": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
+        "score": 218,
+        "by": "0x00C0FFEE",
+        "time": 1775357587,
+        "descendants": 191
+    },
+    {
+        "id": 47699814,
+        "title": "Process Manager for Autonomous AI Agents",
+        "url": "https://botctl.dev/",
+        "score": 54,
+        "by": "ankitg12",
+        "time": 1775714455,
+        "descendants": 12
+    },
+    {
+        "id": 47685320,
+        "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
+        "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+        "score": 564,
+        "by": "jfirebaugh",
+        "time": 1775623077,
+        "descendants": 712
+    },
+    {
+        "id": 47700662,
+        "title": "Today Is CSS Naked Day",
+        "url": "https://css-naked-day.org/?",
+        "score": 6,
+        "by": "edent",
+        "time": 1775722458,
+        "descendants": 0
+    },
+    {
+        "id": 47689237,
+        "title": "US cities are axing Flock Safety surveillance technology",
+        "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+        "score": 724,
+        "by": "giuliomagnifico",
+        "time": 1775651174,
+        "descendants": 410
+    },
+    {
+        "id": 47703686,
+        "title": "The Moon is on Google Maps\u2013did Artemis II tell us anything new?",
+        "url": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
+        "score": 3,
+        "by": "voxadam",
+        "time": 1775742307,
+        "descendants": 0
+    },
+    {
+        "id": 47693679,
+        "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+        "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+        "score": 387,
+        "by": "nickvec",
+        "time": 1775670265,
+        "descendants": 183
+    },
+    {
+        "id": 47703619,
+        "title": "Betterbird. Simply Better",
+        "url": "https://www.betterbird.eu",
+        "score": 5,
+        "by": "antsar",
+        "time": 1775742029,
+        "descendants": 0
+    },
+    {
+        "id": 47686549,
+        "title": "Veracrypt project update",
+        "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+        "score": 1235,
+        "by": "super256",
+        "time": 1775633019,
+        "descendants": 482
+    },
+    {
+        "id": 47702861,
+        "title": "Encrypted Client Hello: How it was blocked in Russia and next steps",
+        "url": "https://cdt.org/insights/do-not-stick-out-the-dynamics-of-the-ech-rollout/",
+        "score": 11,
+        "by": "grittygrease",
+        "time": 1775737968,
+        "descendants": 2
+    },
+    {
+        "id": 47687248,
+        "title": "\u0160koda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+        "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+        "score": 574,
+        "by": "ra",
+        "time": 1775638237,
+        "descendants": 572
+    },
+    {
+        "id": 47696562,
+        "title": "Show HN: Is Hormuz open yet?",
+        "url": "https://www.ishormuzopenyet.com/",
+        "score": 426,
+        "by": "anonfunction",
+        "time": 1775683986,
+        "descendants": 179
+    },
+    {
+        "id": 47690977,
+        "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
+        "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+        "score": 554,
+        "by": "donohoe",
+        "time": 1775659575,
+        "descendants": 219
+    },
+    {
+        "id": 47659135,
+        "title": "Sam Altman may control our future \u2013 can he be trusted?",
+        "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+        "score": 2107,
+        "by": "adrianhon",
+        "time": 1775471817,
+        "descendants": 885
+    },
+    {
+        "id": 47694036,
+        "title": "Show HN: Orange Juice \u2013 Small UX improvements that make HN easier to read",
+        "url": "http://oj-hn.com/",
+        "score": 123,
+        "by": "latchkey",
+        "time": 1775671732,
+        "descendants": 140
+    },
+    {
+        "id": 47656518,
+        "title": "Your File System Is Already A Graph Database",
+        "url": "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/",
+        "score": 177,
+        "by": "alxndr",
+        "time": 1775444776,
+        "descendants": 75
+    },
+    {
+        "id": 47703398,
+        "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
+        "score": 3,
+        "by": "kevcampb",
+        "time": 1775740869,
+        "descendants": 0
+    },
+    {
+        "id": 47679121,
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "url": "https://www.anthropic.com/glasswing",
+        "score": 1502,
+        "by": "Ryan5453",
+        "time": 1775585374,
+        "descendants": 810
+    },
+    {
+        "id": 47653642,
+        "title": "Binary obfuscation that doesn't kill LTO",
+        "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
+        "score": 140,
+        "by": "noztol",
+        "time": 1775421475,
+        "descendants": 94
+    },
+    {
+        "id": 47698512,
+        "title": "A Visual Guide to Gemma 4",
+        "url": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4",
+        "score": 14,
+        "by": "vismit2000",
+        "time": 1775700132,
+        "descendants": 0
+    },
+    {
+        "id": 47703217,
+        "title": "Apple signs meaningless deal to make some less-important parts in America",
+        "url": "https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/",
+        "score": 23,
+        "by": "als0",
+        "time": 1775740023,
+        "descendants": 7
+    },
+    {
+        "id": 47676509,
+        "title": "Lunar Flyby",
+        "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+        "score": 943,
+        "by": "kipi",
+        "time": 1775574198,
+        "descendants": 244
+    },
+    {
+        "id": 47622436,
+        "title": "Slightly safer vibecoding by adopting old hacker habits",
+        "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+        "score": 175,
+        "by": "transpute",
+        "time": 1775181195,
+        "descendants": 93
+    },
+    {
+        "id": 47674606,
+        "title": "Show HN: Unicode Steganography",
+        "url": "https://steganography.patrickvuscan.com",
+        "score": 54,
+        "by": "PatrickVuscan",
+        "time": 1775566645,
+        "descendants": 13
+    },
+    {
+        "id": 47634422,
+        "title": "Native Americans had dice 12k years ago",
+        "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
+        "score": 133,
+        "by": "delichon",
+        "time": 1775264348,
+        "descendants": 83
+    },
+    {
+        "id": 47661297,
+        "title": "What does it mean to \u201cwrite like you talk\u201d?",
+        "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+        "score": 76,
+        "by": "surprisetalk",
+        "time": 1775485371,
+        "descendants": 72
+    },
+    {
+        "id": 47698067,
+        "title": "You Can Just Print an Air Purifier",
+        "url": "https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/",
+        "score": 30,
+        "by": "zdw",
+        "time": 1775696061,
+        "descendants": 3
+    },
+    {
+        "id": 47690797,
+        "title": "Show HN: Go-Bt: Minimalist Behavior Trees for Go",
+        "url": "https://github.com/rvitorper/go-bt",
+        "score": 59,
+        "by": "rvitorper",
+        "time": 1775658810,
+        "descendants": 11
+    },
+    {
+        "id": 47697641,
+        "title": "Claude Managed Agents Overview",
+        "url": "https://platform.claude.com/docs/en/managed-agents/overview",
+        "score": 33,
+        "by": "NicoJuicy",
+        "time": 1775692130,
+        "descendants": 18
+    },
+    {
+        "id": 47693585,
+        "title": "How Costco Won in Japan (2025)",
+        "url": "https://www.readtrung.com/p/how-costco-won-in-japan",
+        "score": 46,
+        "by": "gmays",
+        "time": 1775669894,
+        "descendants": 23
+    },
+    {
+        "id": 47660766,
+        "title": "Exposing and Understanding Scrolling Transfer Functions (2012) [pdf]",
+        "url": "https://direction.bordeaux.inria.fr/~roussel/publications/2012-UIST-scrolling-tf.pdf",
+        "score": 18,
+        "by": "t23414321",
+        "time": 1775482654,
+        "descendants": 0
+    },
+    {
+        "id": 47701971,
+        "title": "AI and remote work is a disaster for junior software engineers",
+        "url": "https://medium.com/@lukas_kosinski/ai-and-remote-work-is-a-disaster-for-junior-software-engineers-a377b1d8ed20",
+        "score": 12,
+        "by": "gpi",
+        "time": 1775731923,
+        "descendants": 5
+    },
+    {
+        "id": 47692661,
+        "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+        "url": "https://github.com/onesuper/tui-use",
+        "score": 48,
+        "by": "dreamsome",
+        "time": 1775666476,
+        "descendants": 37
+    },
+    {
+        "id": 47648307,
+        "title": "Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing",
+        "url": "https://www.rovers.land/",
+        "score": 46,
+        "by": "bookofjoe",
+        "time": 1775388492,
+        "descendants": 17
+    },
+    {
+        "id": 47689319,
+        "title": "Show HN: Skrun \u2013 Deploy any agent skill as an API",
+        "url": "https://github.com/skrun-dev/skrun",
+        "score": 57,
+        "by": "frizull",
+        "time": 1775651678,
+        "descendants": 10
+    },
+    {
+        "id": 47689165,
+        "title": "Show HN: I pipe free sports streams into Jellyfin \u2013 no ads, just HLS",
+        "url": "https://github.com/pcruz1905/hls-restream-proxy",
+        "score": 105,
+        "by": "pruz",
+        "time": 1775650677,
+        "descendants": 30
+    },
+    {
+        "id": 47685945,
+        "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+        "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+        "score": 210,
+        "by": "bundie",
+        "time": 1775628060,
+        "descendants": 198
+    },
+    {
+        "id": 47699426,
+        "title": "Formal Verification in Any Language for Everybody (lean 4)",
+        "url": "https://www.dev-log.me/formal_verification_in_any_language_for_everybody/",
+        "score": 10,
+        "by": "wazHFsRy",
+        "time": 1775710576,
+        "descendants": 4
+    },
+    {
+        "id": 47661038,
+        "title": "Show HN: I built a navigation app that displays weather along the route",
+        "url": "https://navimodo.com/",
+        "score": 53,
+        "by": "vkatluri",
+        "time": 1775483938,
+        "descendants": 24
+    },
+    {
+        "id": 47657204,
+        "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
+        "url": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
+        "score": 105,
+        "by": "indraneelpatil",
+        "time": 1775452100,
+        "descendants": 57
+    },
+    {
+        "id": 47700821,
+        "title": "Veteran artist behind Mass Effect, Halo, & Overwatch 2 weighs in on Nvidia DLSS5",
+        "url": "https://www.notebookcheck.net/Veteran-artist-behind-Mass-Effect-Halo-and-Overwatch-2-weighs-in-on-Nvidia-DLSS-5.1267916.0.html",
+        "score": 17,
+        "by": "DarrylLinington",
+        "time": 1775723651,
+        "descendants": 4
+    },
+    {
+        "id": 47624572,
+        "title": "A database of analog cameras that can be 3D printed",
+        "url": "https://printed.analogcamera.space/",
+        "score": 164,
+        "by": "thomasjb",
+        "time": 1775206941,
+        "descendants": 26
+    },
+    {
+        "id": 47685739,
+        "title": "Revision Demoparty 2026: Razor1911 [video]",
+        "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+        "score": 373,
+        "by": "tetrisgm",
+        "time": 1775626448,
+        "descendants": 127
+    },
+    {
+        "id": 47697895,
+        "title": "Building a JavaScript runtime in one month",
+        "url": "https://themackabu.dev/blog/js-in-one-month",
+        "score": 16,
+        "by": "franciscop",
+        "time": 1775694620,
+        "descendants": 6
+    },
+    {
+        "id": 47682276,
+        "title": "US and Iran agree to provisional ceasefire",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+        "score": 595,
+        "by": "g-b-r",
+        "time": 1775601662,
+        "descendants": 1983
+    },
+    {
+        "id": 47679258,
+        "title": "System Card: Claude Mythos Preview [pdf]",
+        "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+        "score": 832,
+        "by": "be7a",
+        "time": 1775585916,
+        "descendants": 636
+    },
+    {
+        "id": 47675372,
+        "title": "Has electricity decoupled from natural gas prices in Germany?",
+        "url": "https://has-electricity-decoupled-yet.strommarktberatung.de",
+        "score": 141,
+        "by": "konschubert",
+        "time": 1775569827,
+        "descendants": 208
+    },
+    {
+        "id": 47682719,
+        "title": "Xilem \u2013 An experimental Rust native UI framework",
+        "url": "https://github.com/linebender/xilem",
+        "score": 139,
+        "by": "Levitating",
+        "time": 1775604975,
+        "descendants": 85
+    },
+    {
+        "id": 47699396,
+        "title": "Flatpak: Complete Sandbox Escape",
+        "url": "https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg",
+        "score": 13,
+        "by": "eyberg",
+        "time": 1775710245,
+        "descendants": 0
+    },
+    {
+        "id": 47637665,
+        "title": "The Clock",
+        "url": "https://blog.senko.net/the-clock",
+        "score": 100,
+        "by": "senko",
+        "time": 1775297311,
+        "descendants": 43
+    },
+    {
+        "id": 47700972,
+        "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+        "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+        "score": 66,
+        "by": "kisamoto",
+        "time": 1775724918,
+        "descendants": 83
+    },
+    {
+        "id": 47677853,
+        "title": "GLM-5.1: Towards Long-Horizon Tasks",
+        "url": "https://z.ai/blog/glm-5.1",
+        "score": 611,
+        "by": "zixuanlimit",
+        "time": 1775579535,
+        "descendants": 258
+    },
+    {
+        "id": 47663147,
+        "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
+        "score": 321,
+        "by": "benswerd",
+        "time": 1775493131,
+        "descendants": 156
+    },
+    {
+        "id": 47699963,
+        "title": "AI Cybersecurity After Mythos: The Jagged Frontier",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "score": 10,
+        "by": "evelinag",
+        "time": 1775715876,
+        "descendants": 3
+    },
+    {
+        "id": 47658104,
+        "title": "The Image Boards of Hayao Miyazaki",
+        "url": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
+        "score": 201,
+        "by": "vinhnx",
+        "time": 1775462194,
+        "descendants": 16
+    }
+]
