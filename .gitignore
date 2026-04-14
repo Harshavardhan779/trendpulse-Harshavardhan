@@ -10,4 +10,3 @@ __pycache__/
 
 # Ignore the data folder (Optional)
 # Usually, we don't push the actual raw data files, just the code
-data/

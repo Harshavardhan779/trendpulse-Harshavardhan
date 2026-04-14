@@ -1,0 +1,98 @@
+post_id,title,url,score,by,time,num_comments,category
+47702791,Show HN: 41 years sea surface temperature anomalies,https://ssta.willhelps.org,75,willmeyers,1775737557,24,general
+47697870,LittleSnitch for Linux,https://obdev.at/products/littlesnitch-linux/index.html,1024,pluc,1775694368,355,technology
+47700388,Help Keep Thunderbird Alive,https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/,283,playfultones,1775719645,184,general
+47702541,A WebGPU Implementation of Augmented Vertex Block Descent,https://github.com/jure/webphysics,27,juretriglav,1775736091,0,general
+47703419,Meta removes ads for social media addiction litigation,https://www.axios.com/2026/04/09/meta-social-media-addiction-ads,81,giuliomagnifico,1775741030,37,general
+47685644,Introduction to Nintendo DS Programming,https://www.patater.com/files/projects/manual/manual.html,63,medbar,1775625762,10,general
+47703123,How Pizza Tycoon simulated traffic on a 25 MHz CPU,https://pizzalegacy.nl/blog/traffic-system.html,77,FinnKuhn,1775739430,18,general
+47699181,Open Source Security at Astral,https://astral.sh/blog/open-source-security-at-astral,272,vinhnx,1775707915,63,general
+47701572,"Wit, unker, Git: The lost medieval pronouns of English intimacy",https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us,80,eigenspace,1775729419,43,general
+47701148,FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD,https://freebsdfoundation.github.io/freebsd-laptop-testing/,56,fork-bomber,1775726245,20,general
+47680061,Building a framework-agnostic Ruby gem (and making sure it doesn't break),https://newsletter.masilotti.com/p/on-building-a-framework-agnostic,7,joemasilotti,1775589509,0,general
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",https://www.relvy.ai,13,behat,1775736716,11,general
+47658950,Haunted Paper Toys,http://ravensblight.com/papertoys.html,166,exvi,1775470140,21,general
+47624763,Tree Calculus,https://treecalcul.us/,40,tosh,1775209325,11,general
+47703072,Am I German or Autistic?,https://german.millermanschool.com/,151,doener,1775739132,117,general
+47702499,Lichess and Take Take Take Sign Cooperation Agreement,https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy,32,stevage,1775735816,2,general
+47661972,Small Engines,https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/,17,surprisetalk,1775488284,3,general
+47663743,"Show HN: Moon simulator game, ray-casting",https://mooncraft2000.com,55,JKCalhoun,1775495380,13,general
+47645010,Dr. Dobb's Developer Library DVD 6,https://archive.org/details/DDJDVD6,99,kristianp,1775349477,39,general
+47701100,Creating the Futurescape for the Fifth Element [2019],https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element,70,nixass,1775725897,44,general
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,https://werwolv.net/posts/usb_for_sw_devs/,358,WerWolv,1775676214,40,technology
+47632157,"Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store,47,laluser,1775249785,7,general
+47691730,I ported Mac OS X to the Nintendo Wii,https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html,1736,blkhp19,1775662800,296,general
+47693153,Understanding the Kalman filter with a simple radar example,https://kalmanfilter.net,387,alex_be,1775668306,49,general
+47701233,Claude mixes up who said what and that's not OK,https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html,245,sixhobbits,1775726728,233,technology
+47688678,They're made out of meat (1991),http://www.terrybisson.com/theyre-made-out-of-meat-2/,595,surprisetalk,1775647250,160,general
+47689648,ML promises to be profoundly weird,https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess,557,pabs3,1775653593,541,general
+47666639,The Importance of Being Idle,https://theamericanscholar.org/the-importance-of-being-idle/,242,Caiero,1775507583,141,general
+47687273,Git commands I run before reading any code,https://piechowski.io/post/git-commands-before-reading-code/,2130,grepsedawk,1775638422,456,technology
+47692043,Muse Spark: Scaling towards personal superintelligence,https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1,372,chabons,1775664092,352,general
+47678690,Six (and a half) intuitions for KL divergence,https://www.perfectlynormal.co.uk/blog-kl-divergence,99,jxmorris12,1775583253,18,general
+47700084,"Code Is Cheap Now, and That Changes Everything",https://perevillega.com/posts/2026-03-16-code-is-cheap-now/,48,v-mdev,1775716871,34,technology
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,https://arxiv.org/abs/2604.05091,315,chrsw,1775650740,56,technology
+47648538,I imported the full Linux kernel git history into pgit,https://oseifert.ch/blog/linux-kernel-pgit,151,ImGajeed76,1775390935,35,technology
+47654062,Ask HN: Any interesting niche hobbies?,,431,e-topy,1775424619,630,general
+47694983,Expanding Swift's IDE Support,https://swift.org/blog/expanding-swift-ide-support/,132,frizlab,1775676101,59,general
+47656730,Understanding Traceroute,https://tech.stonecharioteer.com/posts/2026/traceroute/,148,stonecharioteer,1775446831,22,general
+47643852,Map Gesture Controls - Control maps with your hands,https://sanderdesnaijer.github.io/map-gesture-controls/,40,hebelehubele,1775339453,7,general
+47660434,C# in Unity 2026: Features Most Developers Still Don't Use,https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use,47,hacker_13,1775480897,46,general
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/,118,DamnInteresting,1775574465,51,general
+47696035,John Deere to pay $99M in right-to-repair settlement,https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement,348,CharlesW,1775681187,116,technology
+47675446,Audio Reactive LED Strips Are Diabolically Hard,https://scottlawsonbc.com/post/audio-led,235,surprisetalk,1775570114,67,general
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",https://cssstudio.ai,65,SirHound,1775733811,57,technology
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,https://github.com/meribold/btry,57,meribold,1775506456,17,general
+47645717,Union types in C# 15,https://devblogs.microsoft.com/dotnet/csharp-15-union-types/,218,0x00C0FFEE,1775357587,191,general
+47699814,Process Manager for Autonomous AI Agents,https://botctl.dev/,54,ankitg12,1775714455,12,technology
+47685320,Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator,https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html,564,jfirebaugh,1775623077,712,general
+47700662,Today Is CSS Naked Day,https://css-naked-day.org/?,6,edent,1775722458,0,general
+47689237,US cities are axing Flock Safety surveillance technology,https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/,724,giuliomagnifico,1775651174,410,technology
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/,387,nickvec,1775670265,183,technology
+47703619,Betterbird. Simply Better,https://www.betterbird.eu,5,antsar,1775742029,0,general
+47686549,Veracrypt project update,https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/,1235,super256,1775633019,482,general
+47702861,Encrypted Client Hello: How it was blocked in Russia and next steps,https://cdt.org/insights/do-not-stick-out-the-dynamics-of-the-ech-rollout/,11,grittygrease,1775737968,2,general
+47687248,Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones,https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/,574,ra,1775638237,572,general
+47696562,Show HN: Is Hormuz open yet?,https://www.ishormuzopenyet.com/,426,anonfunction,1775683986,179,general
+47690977,"Microsoft terminates VeraCrypt account, halting Windows updates",https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/,554,donohoe,1775659575,219,general
+47659135,Sam Altman may control our future – can he be trusted?,https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted,2107,adrianhon,1775471817,885,general
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,http://oj-hn.com/,123,latchkey,1775671732,140,general
+47656518,Your File System Is Already A Graph Database,https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/,177,alxndr,1775444776,75,general
+47679121,Project Glasswing: Securing critical software for the AI era,https://www.anthropic.com/glasswing,1502,Ryan5453,1775585374,810,technology
+47653642,Binary obfuscation that doesn't kill LTO,https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html,140,noztol,1775421475,94,general
+47698512,A Visual Guide to Gemma 4,https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4,14,vismit2000,1775700132,0,general
+47703217,Apple signs meaningless deal to make some less-important parts in America,https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/,23,als0,1775740023,7,general
+47676509,Lunar Flyby,https://www.nasa.gov/gallery/lunar-flyby/,943,kipi,1775574198,244,general
+47622436,Slightly safer vibecoding by adopting old hacker habits,http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html,175,transpute,1775181195,93,general
+47674606,Show HN: Unicode Steganography,https://steganography.patrickvuscan.com,54,PatrickVuscan,1775566645,13,technology
+47634422,Native Americans had dice 12k years ago,https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426,133,delichon,1775264348,83,general
+47661297,What does it mean to “write like you talk”?,https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you,76,surprisetalk,1775485371,72,general
+47698067,You Can Just Print an Air Purifier,https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/,30,zdw,1775696061,3,technology
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,https://github.com/rvitorper/go-bt,59,rvitorper,1775658810,11,general
+47697641,Claude Managed Agents Overview,https://platform.claude.com/docs/en/managed-agents/overview,33,NicoJuicy,1775692130,18,general
+47693585,How Costco Won in Japan (2025),https://www.readtrung.com/p/how-costco-won-in-japan,46,gmays,1775669894,23,general
+47660766,Exposing and Understanding Scrolling Transfer Functions (2012) [pdf],https://direction.bordeaux.inria.fr/~roussel/publications/2012-UIST-scrolling-tf.pdf,18,t23414321,1775482654,0,general
+47701971,AI and remote work is a disaster for junior software engineers,https://medium.com/@lukas_kosinski/ai-and-remote-work-is-a-disaster-for-junior-software-engineers-a377b1d8ed20,12,gpi,1775731923,5,technology
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,https://github.com/onesuper/tui-use,48,dreamsome,1775666476,37,technology
+47648307,Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing,https://www.rovers.land/,46,bookofjoe,1775388492,17,general
+47689319,Show HN: Skrun – Deploy any agent skill as an API,https://github.com/skrun-dev/skrun,57,frizull,1775651678,10,general
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",https://github.com/pcruz1905/hls-restream-proxy,105,pruz,1775650677,30,general
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,https://blog.railway.com/p/moving-railways-frontend-off-nextjs,210,bundie,1775628060,198,technology
+47699426,Formal Verification in Any Language for Everybody (lean 4),https://www.dev-log.me/formal_verification_in_any_language_for_everybody/,10,wazHFsRy,1775710576,4,general
+47661038,Show HN: I built a navigation app that displays weather along the route,https://navimodo.com/,53,vkatluri,1775483938,24,general
+47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),https://indraneelpatil.github.io/blog/2026/robot-vacuum/,105,indraneelpatil,1775452100,57,general
+47700821,"Veteran artist behind Mass Effect, Halo, & Overwatch 2 weighs in on Nvidia DLSS5",https://www.notebookcheck.net/Veteran-artist-behind-Mass-Effect-Halo-and-Overwatch-2-weighs-in-on-Nvidia-DLSS-5.1267916.0.html,17,DarrylLinington,1775723651,4,general
+47624572,A database of analog cameras that can be 3D printed,https://printed.analogcamera.space/,164,thomasjb,1775206941,26,general
+47685739,Revision Demoparty 2026: Razor1911 [video],https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s,373,tetrisgm,1775626448,127,general
+47697895,Building a JavaScript runtime in one month,https://themackabu.dev/blog/js-in-one-month,16,franciscop,1775694620,6,general
+47682276,US and Iran agree to provisional ceasefire,https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire,595,g-b-r,1775601662,1983,general
+47679258,System Card: Claude Mythos Preview [pdf],https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf,832,be7a,1775585916,636,general
+47675372,Has electricity decoupled from natural gas prices in Germany?,https://has-electricity-decoupled-yet.strommarktberatung.de,141,konschubert,1775569827,208,general
+47682719,Xilem – An experimental Rust native UI framework,https://github.com/linebender/xilem,139,Levitating,1775604975,85,general
+47699396,Flatpak: Complete Sandbox Escape,https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg,13,eyberg,1775710245,0,general
+47637665,The Clock,https://blog.senko.net/the-clock,100,senko,1775297311,43,general
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/,66,kisamoto,1775724918,83,technology
+47677853,GLM-5.1: Towards Long-Horizon Tasks,https://z.ai/blog/glm-5.1,611,zixuanlimit,1775579535,258,general
+47663147,Launch HN: Freestyle – Sandboxes for Coding Agents,https://www.freestyle.sh/,321,benswerd,1775493131,156,general
+47699963,AI Cybersecurity After Mythos: The Jagged Frontier,https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier,10,evelinag,1775715876,3,technology
+47658104,The Image Boards of Hayao Miyazaki,https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki,201,vinhnx,1775462194,16,general
